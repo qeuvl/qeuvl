@@ -10,4 +10,4 @@ Did you know? My favourite things are:
 I'm serious. If you see an *actual* contribution made by me,
 that's not in any repositories made by me, or an acquaintance...
 
-A ghost probably did it... :flushed:
+*A ghost probably did it...* :flushed:
