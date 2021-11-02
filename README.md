@@ -1,13 +1,11 @@
-### Hey there, Everybody. this is Qeuvl. From Git Hub.
-Did you know? My favourite things are:
-- Making absolutely no contributions
-- Stale bread
-- Water without any ice
-- The newest season of The Simpsons,
-*and...*
-- Dirt
+# Greetings, my name is qeuvl.
+I am...
+- *Bad at Coding™*
+- lazy
 
-I'm serious. If you see an *actual* contribution made by me,
-that's not in any repositories made by me, or an acquaintance...
+That's about all I have to say right now.
+FAQ time!
+> This readme is pretty lackluster.
 
-*A ghost probably did it...* :flushed:
+it's 11:30pm mate 
+##### *This readme is a placeholder. It will be replaced... sometime.*
