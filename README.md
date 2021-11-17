@@ -13,8 +13,7 @@ As for repositories,
 - [qeuvl/qeuvl](https://github.com/qeuvl/qeuvl), which is where my README.md is stored. You know, the one you're reading?
 
 ## How to reach me?
-I would put my Discord username, discriminator, and id, BUT you'd need to be in a server with me to message me.  
-Since the server's not complete, I guess you'll never knoOOOO<sup>OOOOOO<sup>www</sup></sup>
+***[Click here for a list of handles](moreinfo/SOCIALS.md)***
 
 ## What's up with the profile picture?
 [This one?](https://avatars.githubusercontent.com/u/88230453)
