@@ -13,7 +13,7 @@ As for repositories,
 - [qeuvl/qeuvl](https://github.com/qeuvl/qeuvl), which is where my README.md is stored. You know, the one you're reading?
 
 ## How to reach me?
-***[Click here for a list of handles](moreinfo/SOCIALS.md)***
+***[Click here for a list of handles](moreinfo/SOCIALS.md#my-socials)***
 
 ## What's up with the profile picture?
 [This one?](https://avatars.githubusercontent.com/u/88230453)
