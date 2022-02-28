@@ -1,8 +1,7 @@
 # About me
 My handle for most sites is qeuvl, but for an actual name, you can *call* me Josiah.  
 
-I would say I'm terrible at coding, which is true. I don't *really know* how to properly use programming languages.   
-But I kinda know vanilla HTML/CSS, so there's that.
+Note that I am currently awful at coding. I only know very basic vanilla HTML/CSS.
 
 I also play video games. They're pretty fun&#8482;.
 
