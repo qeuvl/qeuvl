@@ -1,7 +1,7 @@
 # About me
-From Australia. I'm OK with computers. feel free to sign my guestbook ^,^
+Hi, I'm from Australia. I'm not an actual dev.
 ## How to reach me?
-ye cannae
+DM me on Fedi.
 
 <!--*Click [here](moreinfo/SOCIALS.md#my-socials) for my other socials.*-->
 
